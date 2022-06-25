@@ -1,7 +1,7 @@
 Hi there 👋
 
 🤔 I am Stacy Kioko, an undergradute student with a bachelors degree in International Business and trade, pivoting to tech. 
-I am currently learning different languages; HTML, C++, Python, Javascript, etc, that will make me become a full stack developer 
+I am currently learning different languages; HTML, C++, Python, Javascript, etc, that will make me become a full stack developer (Or maybe a front-end developer)
 in the near future. My passion for development started when I was doing my thesis paper and I realized that the finance solutions 
 that exist in Africa are not inclusive or well curated to fit the different profiles that exist in the continent. I therefore would 
 like to develop/contribute to impacful solutions that will serve the needs and interests of as many people as possible by applying
